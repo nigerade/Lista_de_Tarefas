@@ -31,4 +31,6 @@ Crie o design visual e front end da página, e criei a função de adicionar e r
 
 Você pode ver o site neste link: [Lista de Tarefas](https://nigerade.github.io/Lista_de_Tarefas/)
 
+Caso você queira ver a Documentação do desafio, clique no seguinte link: [Documentação](/docs/documntacao.pdf)
+
 --- 
