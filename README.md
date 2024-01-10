@@ -1,7 +1,7 @@
-<h1 align="center"> Site Projeto - Soft Grippers</h1>
+<h1 align="center"> Projeto - Lista de Tarefas</h1>
 
 <p align="center">
-Site criada para a Empresa Soft Grippers
+Projeto de Lista de Tarefas criada como Desafio 2 como parte da 2° fase do Processo Seletivo para Aceleradora Ágil pela PUCRS
 </p>
 
 ---
@@ -27,9 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Este site foi criado como Freelance para a Empresa Soft Grippers, Empresa de Robótica Mole.
-Este projeto possui Direitos de Copyright e não deve ser clonado, copiado ou modificado, sendo passivo de Ação de Direitos Autorais e Propriedade Intelectual.
+Projeto de Lista de Tarefas criada como Desafio 2 como parte da 2° fase do Processo Seletivo para Aceleradora Ágil pela PUCRS.
+Crie o design visual e front end da página, e criei a função de adicionar e remover tarefas com Javascript.
 
-Você pode ver o site neste link: [Site Soft Grippers](https://softgrippers.com/index.html)
+Você pode ver o site neste link: [Site Soft Grippers](https://nigerade.github.io/Lista_de_Tarefas/)
 
 --- 
