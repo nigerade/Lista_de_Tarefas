@@ -29,6 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto de Lista de Tarefas criada como Desafio 2 como parte da 2° fase do Processo Seletivo para Aceleradora Ágil pela PUCRS.
 Crie o design visual e front end da página, e criei a função de adicionar e remover tarefas com Javascript.
 
-Você pode ver o site neste link: [Site Soft Grippers](https://nigerade.github.io/Lista_de_Tarefas/)
+Você pode ver o site neste link: [Lista de Tarefas](https://nigerade.github.io/Lista_de_Tarefas/)
 
 --- 
